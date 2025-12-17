@@ -79,7 +79,3 @@ typings/
 
 # Excluded folders
 download/
-
-# Large data files
-*.csv
-upload/
